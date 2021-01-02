@@ -1,1 +1,2 @@
-# NewtonsCradle-2
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
